@@ -1,6 +1,6 @@
 # Skills
 
-*A personal collection of Agent Skills for Claude Code — each directory holds one skill, and `SKILL.md` is its entry point.*
+*A personal collection of Agent Skills.*
 
 ## Skills in This Repo
 
@@ -15,7 +15,14 @@
 | ----- | ------------ | ------ |
 | [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) | Searches the skills.sh directory and installs the skill you pick. | vercel-labs/skills |
 
-<!-- Copy the row above and replace the name link, the description, and the source. -->
+## Skill Collections
+
+*Whole repositories full of skills, rather than single ones. Same deal as above — a living list, not an endorsement; I haven't audited any of these.*
+
+| Collection | What it is | Source |
+| ---------- | ---------- | ------ |
+| [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official examples — creative, technical, enterprise, and document skills — plus the Agent Skills spec and a template. | anthropics |
+| [superpowers](https://github.com/obra/superpowers) | A composable skill library and development methodology — TDD, debugging, planning, code review — with plugin support for many agents. | obra |
 
 ## License
 
