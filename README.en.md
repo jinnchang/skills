@@ -6,6 +6,7 @@
 
 ## Skills in This Repo
 
+- **[article-writing](article-writing/SKILL.md)** — Writes developer-focused technical blog posts in Chinese: three post types (tutorial/how-to, deep-dive explainer, architecture/system-design), plus structure templates, voice-and-tone rules, code-example standards, word-count targets, and a common-mistakes checklist. (`/article-writing`)
 - **[eli5](eli5/SKILL.md)** — Explains any topic like you're five: an HTML artifact with big pictures and very few words. (`/eli5 <topic>`)
 - **[technical-example](technical-example/SKILL.md)** — Builds a self-contained, runnable project that teaches one technology, either as an application walkthrough ("how to use X") or a principle explainer ("how X works under the hood"). (`/technical-example`)
 

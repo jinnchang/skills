@@ -6,6 +6,7 @@
 
 ## 本仓库的技能
 
+- **[article-writing](article-writing/SKILL.md)** — 写面向开发者的中文技术博客文章：覆盖教程/操作指南、深度解析、架构/系统设计三种体裁，附带结构模板、语气规则、代码示例标准、字数目标和常见错误清单。(`/article-writing`)
 - **[eli5](eli5/SKILL.md)** — 用「讲给五岁小孩听」的方式解释任何主题：一个只有大图和极少文字的 HTML 页面。(`/eli5 <topic>`)
 - **[technical-example](technical-example/SKILL.md)** — 生成一个自包含、可运行的项目来讲解某项技术，有两种形式：应用实战（「X 怎么用」）和原理解析（「X 底层是怎么工作的」）。(`/technical-example`)
 
