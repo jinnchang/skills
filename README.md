@@ -40,7 +40,3 @@ English | [中文](README.zh.md)
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official examples — creative, technical, enterprise, and document skills — plus the Agent Skills spec and a template. | anthropics |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | "Skills for Real Engineers" — engineering and productivity workflows: TDD, code review, codebase design, diagnosing bugs, domain modeling, specs and tickets, and research. | mattpocock |
 | [superpowers](https://github.com/obra/superpowers) | A composable skill library and development methodology — TDD, debugging, planning, code review — with plugin support for many agents. | obra |
-
-## License
-
-MIT — see [LICENSE](LICENSE).

@@ -40,7 +40,3 @@
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic 官方示例——创意类、技术类、企业类和文档类技能——外加 Agent Skills 规范和一份模板。 | anthropics |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | "Skills for Real Engineers"——工程与效率相关工作流：TDD、代码审查、代码库设计、排查缺陷、领域建模、规格与工单，以及调研。 | mattpocock |
 | [superpowers](https://github.com/obra/superpowers) | 一个可组合的技能库和开发方法论——TDD、调试、规划、代码审查——并为多种 agent 提供插件支持。 | obra |
-
-## 许可证
-
-MIT —— 见 [LICENSE](LICENSE)。
