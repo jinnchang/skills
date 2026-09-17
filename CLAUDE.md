@@ -16,6 +16,6 @@ A skill is installed by copying its directory, so it must be self-contained: not
 
 ## READMEs
 
-`README.md` (Chinese, primary) and `README.en.md` (English) are translations of each other: same sections, same entries, same order, both alphabetical. Both are updated in the same change as adding, removing, or renaming a skill — the one rule here that every skill change touches.
+`README.md` (English, primary) and `README.zh.md` (Chinese) are translations of each other: same sections, same entries, same order, both alphabetical. Both are updated in the same change as adding, removing, or renaming a skill — the one rule here that every skill change touches.
 
-Each opens with `[中文](README.md) | [English](README.en.md)` right after the `# Skills` heading. Skill names, identifiers, file names, and the `Source` / `来源` column stay English; prose is translated.
+Each opens with a language-switch link right after the `# Skills` heading: `README.md` opens `English | [中文](README.zh.md)`, and `README.zh.md` opens `[English](README.md) | 中文`. Skill names, identifiers, file names, and the `Source` / `来源` column stay English; prose is translated.
